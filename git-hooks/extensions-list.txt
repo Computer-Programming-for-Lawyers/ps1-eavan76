@@ -1,0 +1,5 @@
+Codespaces: fictional adventure 上安裝的延伸模組:
+github.codespaces
+github.github-vscode-theme
+github.vscode-pull-request-github
+ms-ceintl.vscode-language-pack-zh-hant
