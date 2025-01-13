@@ -1,0 +1,13 @@
+Codespaces: fictional adventure 上安裝的延伸模組:
+github.codespaces
+github.github-vscode-theme
+github.vscode-pull-request-github
+ms-ceintl.vscode-language-pack-zh-hant
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+ms-toolsai.jupyter-keymap
+ms-toolsai.jupyter-renderers
+ms-toolsai.vscode-jupyter-cell-tags
+ms-toolsai.vscode-jupyter-slideshow
